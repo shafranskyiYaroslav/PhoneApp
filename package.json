@@ -1,0 +1,31 @@
+{
+  "name": "phones-app",
+  "version": "1.0.0",
+  "description": "phones shop",
+  "main": "node.js",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "lint-staged": "^8.1.6",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {
+    "husky": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kommunistMaou/fe_on_jan19.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[index.html)\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kommunistMaou/fe_on_jan19/issues"
+  },
+  "homepage": "https://github.com/kommunistMaou/fe_on_jan19#readme"
+}
